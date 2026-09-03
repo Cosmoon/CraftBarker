@@ -1,0 +1,12 @@
+## Interface: 11509
+## Interface-Classic: 11509
+## Interface-Era: 11509
+## Title: Advertiser
+## Notes: Simple profession advertising for Classic.
+## Author: howmany.cloud
+## Version: 1.0.0
+## SavedVariablesPerCharacter: AdvertiserCharDB
+## Category: Professions
+## IconTexture: Interface\Icons\INV_Letter_15
+
+Advertiser.lua
