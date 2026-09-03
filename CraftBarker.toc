@@ -1,0 +1,10 @@
+## Interface: 11509
+## Title: CraftBarker
+## Notes: Simple profession advertising for Anniversary.
+## Author: Cosmoon
+## Version: 1.0.0
+## SavedVariablesPerCharacter: CraftBarkerCharDB
+## Category: Professions
+## IconTexture: Interface\Icons\INV_Letter_15
+
+CraftBarker.lua
